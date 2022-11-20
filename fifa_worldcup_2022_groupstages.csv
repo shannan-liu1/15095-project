@@ -1,0 +1,49 @@
+date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_rank,away_team_fifa_rank,home_team_total_fifa_points,away_team_total_fifa_points,tournament,city,country,neutral_location,home_team_goalkeeper_score,away_team_goalkeeper_score,home_team_mean_defense_score,home_team_mean_offense_score,home_team_mean_midfield_score,away_team_mean_defense_score,away_team_mean_offense_score,away_team_mean_midfield_score,group
+2022-11-20,Qatar,Ecuador,Asia,South America,50,44,1439.89,1464.39,FIFA World Cup,Al Khor,Qatar,False,77,71,77.5,80.3,77.5,73.5,78.33333333333333,76.0,Group A
+2022-11-21,Senegal,Netherlands,Africa,Europe,18,8,1584.38,1694.51,FIFA World Cup,Doha,Qatar,True,83,81,79.5,81.33333333333333,79.0,86.5,83.0,84.5,Group A
+2022-11-25,Qatar,Senegal,Asia,Africa,50,18,1439.89,1584.38,FIFA World Cup,Doha,Qatar,False,77,83,77.5,80.3,77.5,79.5,81.33333333333333,79.0,Group A
+2022-11-25,Netherlands,Ecuador,Europe,South America,8,44,1694.51,1464.39,FIFA World Cup,Al Rayyan,Qatar,True,81,71,86.5,83.0,84.5,73.5,78.33333333333333,76.0,Group A
+2022-11-29,Ecuador,Senegal,South America,Africa,44,18,1464.39,1584.38,FIFA World Cup,Al Rayyan,Qatar,True,71,83,73.5,78.33333333333333,76.0,79.5,81.33333333333333,79.0,Group A
+2022-11-29,Netherlands,Qatar,Europe,Asia,8,50,1694.51,1439.89,FIFA World Cup,Al Khor,Qatar,False,81,77,86.5,83.0,84.5,77.5,80.3,77.5,Group A
+2022-11-21,England,Iran,Europe,Asia,5,20,1728.47,1564.61,FIFA World Cup,Al Rayyan,Qatar,True,83,73,85.0,88.33333333333333,85.0,70.0,75.33333333333333,71.75,Group B
+2022-11-21,USA,Wales,North America,Europe,16,19,1627.48,1569.82,FIFA World Cup,Al Rayyan,Qatar,True,77,74,76.5,77.66666666666667,78.25,75.0,77.66666666666667,78.75,Group B
+2022-11-25,Wales,Iran,Europe,Asia,19,20,1569.82,1564.61,FIFA World Cup,Al Rayyan,Qatar,True,74,73,75.0,77.66666666666667,78.75,70.0,75.33333333333333,71.75,Group B
+2022-11-25,England,USA,Europe,North America,5,16,1728.47,1627.48,FIFA World Cup,Al Khor,Qatar,True,83,77,85.0,88.33333333333333,85.0,76.5,77.66666666666667,78.25,Group B
+2022-11-29,Wales,England,Europe,Europe,19,5,1569.82,1728.47,FIFA World Cup,Al Rayyan,Qatar,True,74,83,75.0,77.66666666666667,78.75,85.0,88.33333333333333,85.0,Group B
+2022-11-29,Iran,USA,Asia,North America,20,16,1564.61,1627.48,FIFA World Cup,Doha,Qatar,True,73,77,70.0,75.33333333333333,71.75,76.5,77.66666666666667,78.25,Group B
+2022-11-22,Argentina,Saudi Arabia,South America,Asia,3,51,1773.88,1437.78,FIFA World Cup,Lusail,Qatar,True,84,70,82.25,89.0,84.75,72.75,67.66666666666667,72.75,Group C
+2022-11-22,Mexico,Poland,North America,Europe,13,26,1644.89,1548.59,FIFA World Cup,Doha,Qatar,True,80,87,78.5,82.66666666666667,81.0,75.25,83.0,77.5,Group C
+2022-11-26,Poland,Saudi Arabia,Europe,Asia,26,51,1548.59,1437.78,FIFA World Cup,Al Rayyan,Qatar,True,87,70,75.25,83.0,77.5,72.75,67.66666666666667,72.75,Group C
+2022-11-26,Argentina,Mexico,South America,North America,3,13,1773.88,1644.89,FIFA World Cup,Lusail,Qatar,True,84,80,82.25,89.0,84.75,78.5,82.66666666666667,81.0,Group C
+2022-11-30,Poland,Argentina,Europe,South America,26,3,1548.59,1773.88,FIFA World Cup,Doha,Qatar,True,87,84,75.25,83.0,77.5,82.25,89.0,84.75,Group C
+2022-11-30,Saudi Arabia,Mexico,Asia,North America,51,13,1437.78,1644.89,FIFA World Cup,Lusail,Qatar,True,70,80,72.75,67.66666666666667,72.75,78.5,82.66666666666667,81.0,Group C
+2022-11-22,Denmark,Tunisia,Europe,Africa,10,30,1666.57,1507.54,FIFA World Cup,Al Rayyan,Qatar,True,85,77,80.25,77.66666666666667,81.5,70.75,72.33333333333333,75.0,Group D
+2022-11-22,France,Australia,Europe,Oceania,4,38,1759.78,1488.72,FIFA World Cup,Al Wakrah,Qatar,True,87,77,84.25,88.66666666666667,86.75,72.0,73.0,73.75,Group D
+2022-11-26,Tunisia,Australia,Africa,Oceania,30,38,1507.54,1488.72,FIFA World Cup,Al Wakrah,Qatar,True,77,77,70.75,72.33333333333333,75.0,72.0,73.0,73.75,Group D
+2022-11-26,France,Denmark,Europe,Europe,4,10,1759.78,1666.57,FIFA World Cup,Doha,Qatar,True,87,85,84.25,88.66666666666667,86.75,80.25,77.66666666666667,81.5,Group D
+2022-11-30,Australia,Denmark,Oceania,Europe,38,10,1488.72,1666.57,FIFA World Cup,Al Wakrah,Qatar,True,77,85,72.0,73.0,73.75,80.25,77.66666666666667,81.5,Group D
+2022-11-30,Tunisia,France,Africa,Europe,30,4,1507.54,1759.78,FIFA World Cup,Al Rayyan,Qatar,True,77,87,70.75,72.33333333333333,75.0,84.25,88.66666666666667,86.75,Group D
+2022-11-23,Germany,Japan,Europe,Asia,11,24,1650.21,1559.54,FIFA World Cup,Al Rayyan,Qatar,True,90,73,85.5,85.66666666666667,87.75,75.25,77.0,77.75,Group E
+2022-11-23,Spain,Costa Rica,Europe,North America,7,31,1715.22,1503.59,FIFA World Cup,Doha,Qatar,True,84,88,86.25,85.66666666666667,86.0,71.5,71.66666666666667,72.0,Group E
+2022-11-27,Japan,Costa Rica,Asia,North America,24,31,1559.54,1503.59,FIFA World Cup,Al Rayyan,Qatar,True,73,88,75.25,77.0,77.75,71.5,71.66666666666667,72.0,Group E
+2022-11-27,Spain,Germany,Europe,Europe,7,11,1715.22,1650.21,FIFA World Cup,Al Khor,Qatar,True,84,90,86.25,85.66666666666667,86.0,85.5,85.66666666666667,87.75,Group E
+2022-12-01,Japan,Spain,Asia,Europe,24,7,1559.54,1715.22,FIFA World Cup,Al Rayyan,Qatar,True,73,84,75.25,77.0,77.75,86.25,85.66666666666667,86.0,Group E
+2022-12-01,Costa Rica,Germany,North America,Europe,31,11,1503.59,1650.21,FIFA World Cup,Al Khor,Qatar,True,88,90,71.5,71.66666666666667,72.0,85.5,85.66666666666667,87.75,Group E
+2022-11-23,Morocco,Croatia,Africa,Europe,22,12,1563.5,1645.64,FIFA World Cup,Al Khor,Qatar,True,82,82,81.25,83.66666666666667,78.75,79.25,82.0,84.25,Group F
+2022-11-23,Belgium,Canada,Europe,North America,2,41,1816.71,1475.0,FIFA World Cup,Al Rayyan,Qatar,True,89,76,80.75,85.66666666666667,85.75,72.75,75.33333333333333,76.75,Group F
+2022-11-27,Belgium,Morocco,Europe,Africa,2,22,1816.71,1563.5,FIFA World Cup,Doha,Qatar,True,89,82,80.75,85.66666666666667,85.75,81.25,83.66666666666667,78.75,Group F
+2022-11-27,Croatia,Canada,Europe,North America,12,41,1645.64,1475.0,FIFA World Cup,Al Rayyan,Qatar,True,82,76,79.25,82.0,84.25,72.75,75.33333333333333,76.75,Group F
+2022-12-01,Croatia,Belgium,Europe,Europe,12,2,1645.64,1816.71,FIFA World Cup,Al Rayyan,Qatar,True,82,89,79.25,82.0,84.25,80.75,85.66666666666667,85.75,Group F
+2022-12-01,Canada,Morocco,North America,Africa,41,22,1475.0,1563.5,FIFA World Cup,Doha,Qatar,True,76,82,72.75,75.33333333333333,76.75,81.25,83.66666666666667,78.75,Group F
+2022-11-24,Switzerland,Cameroon,Europe,Africa,15,43,1635.92,1471.44,FIFA World Cup,Al Wakrah,Qatar,True,85,67,79.5,78.0,79.5,76.75,77.66666666666667,75.25,Group G
+2022-11-24,Brazil,Serbia,South America,Europe,1,21,1841.3,1563.62,FIFA World Cup,Lusail,Qatar,True,89,80,85.5,86.33333333333333,88.25,79.25,82.33333333333333,83.0,Group G
+2022-11-28,Cameroon,Serbia,Africa,Europe,43,21,1471.44,1563.62,FIFA World Cup,Al Wakrah,Qatar,True,67,80,76.75,77.66666666666667,75.25,79.25,82.33333333333333,83.0,Group G
+2022-11-28,Brazil,Switzerland,South America,Europe,1,15,1841.3,1635.92,FIFA World Cup,Doha,Qatar,True,89,85,85.5,86.33333333333333,88.25,79.5,78.0,79.5,Group G
+2022-12-02,Serbia,Switzerland,Europe,Europe,21,15,1563.62,1635.92,FIFA World Cup,Doha,Qatar,True,80,85,79.25,82.33333333333333,83.0,79.5,78.0,79.5,Group G
+2022-12-02,Cameroon,Brazil,Africa,South America,43,1,1471.44,1841.3,FIFA World Cup,Lusail,Qatar,True,67,89,76.75,77.66666666666667,75.25,85.5,86.33333333333333,88.25,Group G
+2022-11-24,Uruguay,Korea Republic,South America,Asia,14,28,1638.71,1530.3,FIFA World Cup,Al Rayyan,Qatar,True,80,75,81.25,84.33333333333333,80.5,73.0,80.0,78.5,Group H
+2022-11-24,Portugal,Ghana,Europe,Africa,9,61,1676.56,1393.0,FIFA World Cup,Doha,Qatar,True,82,74,85.25,87.0,85.5,75.5,77.0,78.5,Group H
+2022-11-28,Korea Republic,Ghana,Asia,Africa,28,61,1530.3,1393.0,FIFA World Cup,Al Rayyan,Qatar,True,75,74,73.0,80.0,78.5,75.5,77.0,78.5,Group H
+2022-11-28,Portugal,Uruguay,Europe,South America,9,14,1676.56,1638.71,FIFA World Cup,Lusail,Qatar,True,82,80,85.25,87.0,85.5,81.25,84.33333333333333,80.5,Group H
+2022-12-02,Ghana,Uruguay,Africa,South America,61,14,1393.0,1638.71,FIFA World Cup,Al Wakrah,Qatar,True,74,80,75.5,77.0,78.5,81.25,84.33333333333333,80.5,Group H
+2022-12-02,Korea Republic,Portugal,Asia,Europe,28,9,1530.3,1676.56,FIFA World Cup,Al Rayyan,Qatar,True,75,82,73.0,80.0,78.5,85.25,87.0,85.5,Group H
