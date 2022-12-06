@@ -1,0 +1,49 @@
+draw,home_loss,home_win,home_team,away_team
+0.4,0.17,0.43,Qatar,Ecuador
+0.38,0.16,0.46,Senegal,Netherlands
+0.4,0.17,0.43,Qatar,Senegal
+0.4,0.17,0.43,Netherlands,Ecuador
+0.39,0.19,0.42,Ecuador,Senegal
+0.4,0.17,0.43,Netherlands,Qatar
+0.4,0.17,0.43,England,Iran
+0.38,0.16,0.46,USA,Wales
+0.4,0.17,0.43,Wales,Iran
+0.4,0.17,0.43,England,USA
+0.38,0.16,0.46,Wales,England
+0.4,0.17,0.43,Iran,USA
+0.39,0.19,0.42,Argentina,Saudi Arabia
+0.38,0.16,0.46,Mexico,Poland
+0.4,0.17,0.43,Poland,Saudi Arabia
+0.39,0.19,0.42,Argentina,Mexico
+0.4,0.17,0.43,Poland,Argentina
+0.4,0.17,0.43,Saudi Arabia,Mexico
+0.4,0.17,0.43,Denmark,Tunisia
+0.4,0.17,0.43,France,Australia
+0.4,0.17,0.43,Tunisia,Australia
+0.38,0.16,0.46,France,Denmark
+0.38,0.16,0.46,Australia,Denmark
+0.38,0.16,0.46,Tunisia,France
+0.4,0.17,0.43,Germany,Japan
+0.4,0.17,0.43,Spain,Costa Rica
+0.4,0.17,0.43,Japan,Costa Rica
+0.38,0.16,0.46,Spain,Germany
+0.38,0.16,0.46,Japan,Spain
+0.38,0.16,0.46,Costa Rica,Germany
+0.38,0.16,0.46,Morocco,Croatia
+0.4,0.17,0.43,Belgium,Canada
+0.4,0.17,0.43,Belgium,Morocco
+0.4,0.17,0.43,Croatia,Canada
+0.38,0.16,0.46,Croatia,Belgium
+0.4,0.17,0.43,Canada,Morocco
+0.4,0.17,0.43,Switzerland,Cameroon
+0.39,0.17,0.44,Brazil,Serbia
+0.38,0.16,0.46,Cameroon,Serbia
+0.39,0.17,0.44,Brazil,Switzerland
+0.38,0.16,0.46,Serbia,Switzerland
+0.4,0.17,0.43,Cameroon,Brazil
+0.39,0.19,0.42,Uruguay,Korea Republic
+0.4,0.17,0.43,Portugal,Ghana
+0.4,0.17,0.43,Korea Republic,Ghana
+0.4,0.17,0.43,Portugal,Uruguay
+0.4,0.17,0.43,Ghana,Uruguay
+0.38,0.16,0.46,Korea Republic,Portugal
