@@ -1,36 +1,36 @@
 home_team,away_team,home_win,draw,home_loss
-Argentina,Saudi Arabia,0.78,0.11,0.11
 Argentina,Mexico,0.7,0.15,0.15
+Argentina,Saudi Arabia,0.78,0.11,0.11
 Australia,Denmark,0.31,0.28,0.41
 Belgium,Canada,0.59,0.24,0.17
 Belgium,Morocco,0.56,0.29,0.15
 Brazil,Serbia,0.56,0.21,0.23
 Brazil,Switzerland,0.64,0.19,0.17
-Cameroon,Serbia,0.24,0.2,0.56
 Cameroon,Brazil,0.12,0.26,0.62
+Cameroon,Serbia,0.24,0.2,0.56
 Canada,Morocco,0.47,0.2,0.33
 Costa Rica,Germany,0.12,0.26,0.62
-Croatia,Canada,0.54,0.31,0.15
 Croatia,Belgium,0.31,0.28,0.41
+Croatia,Canada,0.54,0.31,0.15
 Denmark,Tunisia,0.53,0.34,0.13
 Ecuador,Senegal,0.37,0.16,0.47
-England,USA,0.7,0.18,0.12
 England,Iran,0.72,0.2,0.08
-France,Denmark,0.27,0.08,0.65
+England,USA,0.7,0.18,0.12
 France,Australia,0.71,0.17,0.12
+France,Denmark,0.27,0.08,0.65
 Germany,Japan,0.57,0.31,0.12
 Ghana,Uruguay,0.2,0.27,0.53
 Iran,USA,0.44,0.25,0.31
-Japan,Spain,0.19,0.22,0.59
 Japan,Costa Rica,0.74,0.15,0.11
-Korea Republic,Portugal,0.19,0.17,0.64
+Japan,Spain,0.19,0.22,0.59
 Korea Republic,Ghana,0.4,0.38,0.22
+Korea Republic,Portugal,0.19,0.17,0.64
 Mexico,Poland,0.4,0.4,0.2
 Morocco,Croatia,0.38,0.21,0.41
-Netherlands,Qatar,0.58,0.29,0.13
 Netherlands,Ecuador,0.71,0.19,0.1
-Poland,Saudi Arabia,0.73,0.17,0.1
+Netherlands,Qatar,0.58,0.29,0.13
 Poland,Argentina,0.06,0.35,0.59
+Poland,Saudi Arabia,0.73,0.17,0.1
 Portugal,Ghana,0.64,0.26,0.1
 Portugal,Uruguay,0.56,0.22,0.22
 Qatar,Ecuador,0.51,0.31,0.18
