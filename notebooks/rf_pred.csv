@@ -1,49 +1,49 @@
-draw,home_loss,home_win,home_team,away_team
-0.31,0.18,0.51,Qatar,Ecuador
-0.18,0.6,0.22,Senegal,Netherlands
-0.19,0.34,0.47,Qatar,Senegal
-0.19,0.1,0.71,Netherlands,Ecuador
-0.16,0.47,0.37,Ecuador,Senegal
-0.29,0.13,0.58,Netherlands,Qatar
-0.2,0.08,0.72,England,Iran
-0.37,0.21,0.42,USA,Wales
-0.22,0.23,0.55,Wales,Iran
-0.18,0.12,0.7,England,USA
-0.28,0.58,0.14,Wales,England
-0.25,0.31,0.44,Iran,USA
-0.11,0.11,0.78,Argentina,Saudi Arabia
-0.4,0.2,0.4,Mexico,Poland
-0.17,0.1,0.73,Poland,Saudi Arabia
-0.15,0.15,0.7,Argentina,Mexico
-0.35,0.59,0.06,Poland,Argentina
-0.29,0.5133333333333333,0.19666666666666666,Saudi Arabia,Mexico
-0.34,0.13,0.53,Denmark,Tunisia
-0.17,0.12,0.71,France,Australia
-0.27,0.1,0.63,Tunisia,Australia
-0.08,0.65,0.27,France,Denmark
-0.28,0.41,0.31,Australia,Denmark
-0.3,0.61,0.09,Tunisia,France
-0.31,0.12,0.57,Germany,Japan
-0.17,0.11,0.72,Spain,Costa Rica
-0.15,0.11,0.74,Japan,Costa Rica
-0.4,0.25,0.35,Spain,Germany
-0.22,0.59,0.19,Japan,Spain
-0.26,0.62,0.12,Costa Rica,Germany
-0.21,0.41,0.38,Morocco,Croatia
-0.24,0.17,0.59,Belgium,Canada
-0.29,0.15,0.56,Belgium,Morocco
-0.31,0.15,0.54,Croatia,Canada
-0.28,0.41,0.31,Croatia,Belgium
-0.2,0.33,0.47,Canada,Morocco
-0.26,0.17,0.57,Switzerland,Cameroon
-0.21,0.23,0.56,Brazil,Serbia
-0.2,0.56,0.24,Cameroon,Serbia
-0.19,0.17,0.64,Brazil,Switzerland
-0.3,0.22,0.48,Serbia,Switzerland
-0.26,0.62,0.12,Cameroon,Brazil
-0.22,0.14,0.64,Uruguay,Korea Republic
-0.26,0.1,0.64,Portugal,Ghana
-0.38,0.22,0.4,Korea Republic,Ghana
-0.22,0.22,0.56,Portugal,Uruguay
-0.27,0.53,0.2,Ghana,Uruguay
-0.17,0.64,0.19,Korea Republic,Portugal
+home_team,away_team,home_win,draw,home_loss
+Argentina,Saudi Arabia,0.42,0.39,0.19
+Argentina,Mexico,0.42,0.39,0.19
+Australia,Denmark,0.46,0.38,0.16
+Belgium,Canada,0.43,0.4,0.17
+Belgium,Morocco,0.43,0.4,0.17
+Brazil,Serbia,0.44,0.39,0.17
+Brazil,Switzerland,0.44,0.39,0.17
+Cameroon,Serbia,0.46,0.38,0.16
+Cameroon,Brazil,0.43,0.4,0.17
+Canada,Morocco,0.43,0.4,0.17
+Costa Rica,Germany,0.46,0.38,0.16
+Croatia,Canada,0.43,0.4,0.17
+Croatia,Belgium,0.46,0.38,0.16
+Denmark,Tunisia,0.43,0.4,0.17
+Ecuador,Senegal,0.42,0.39,0.19
+England,USA,0.43,0.4,0.17
+England,Iran,0.43,0.4,0.17
+France,Denmark,0.46,0.38,0.16
+France,Australia,0.43,0.4,0.17
+Germany,Japan,0.43,0.4,0.17
+Ghana,Uruguay,0.43,0.4,0.17
+Iran,USA,0.43,0.4,0.17
+Japan,Spain,0.46,0.38,0.16
+Japan,Costa Rica,0.43,0.4,0.17
+Korea Republic,Portugal,0.46,0.38,0.16
+Korea Republic,Ghana,0.43,0.4,0.17
+Mexico,Poland,0.46,0.38,0.16
+Morocco,Croatia,0.46,0.38,0.16
+Netherlands,Qatar,0.43,0.4,0.17
+Netherlands,Ecuador,0.43,0.4,0.17
+Poland,Saudi Arabia,0.43,0.4,0.17
+Poland,Argentina,0.43,0.4,0.17
+Portugal,Ghana,0.43,0.4,0.17
+Portugal,Uruguay,0.43,0.4,0.17
+Qatar,Ecuador,0.43,0.4,0.17
+Qatar,Senegal,0.43,0.4,0.17
+Saudi Arabia,Mexico,0.43,0.4,0.17
+Senegal,Netherlands,0.46,0.38,0.16
+Serbia,Switzerland,0.46,0.38,0.16
+Spain,Costa Rica,0.43,0.4,0.17
+Spain,Germany,0.46,0.38,0.16
+Switzerland,Cameroon,0.43,0.4,0.17
+Tunisia,Australia,0.43,0.4,0.17
+Tunisia,France,0.46,0.38,0.16
+USA,Wales,0.46,0.38,0.16
+Uruguay,Korea Republic,0.42,0.39,0.19
+Wales,England,0.46,0.38,0.16
+Wales,Iran,0.43,0.4,0.17
