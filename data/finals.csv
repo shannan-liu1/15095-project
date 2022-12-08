@@ -1,0 +1,3 @@
+date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_rank,away_team_fifa_rank,home_team_total_fifa_points,away_team_total_fifa_points,tournament,city,country,neutral_location,home_team_goalkeeper_score,away_team_goalkeeper_score,home_team_mean_defense_score,home_team_mean_offense_score,home_team_mean_midfield_score,away_team_mean_defense_score,away_team_mean_offense_score,away_team_mean_midfield_score
+2022-12-18,Brazil,France,South America,Europe,1,4,1841.3,1759.78,FIFA World Cup,Lusail,Qatar,False,89,87,85.5,86.33333333333333,88.25,84.25,88.66666666666667,86.75
+2022-12-17,Argentina,Portugal,South America,Europe,3,9,1773.88,1676.56,FIFA World Cup,Al Rayyan,Qatar,False,84,82,82.25,89.0,84.75,85.25,87.0,85.5
